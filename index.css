@@ -1,0 +1,88 @@
+* {
+	margin: 0;
+	padding: 0;
+	/* Bullets are padding on our webpage */
+	box-sizing: border-box;
+	font-size: 20px;
+/*	color: blanchedalmond;*/
+}
+
+.row {
+	text-align: center;
+	display: inline-flex;
+	margin-left: 0rem !important;
+	margin-right: 0rem !important;
+}
+
+.container{
+	text-align: center;
+	margin: 0 auto;
+}
+
+.col-md-6{
+	padding-left: 30px;
+	padding-right: 30px;
+/*	margin-right: 20px;
+	margin-left: 20px;*/
+}
+
+h1{
+	font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+.background {
+	min-height: 100vh;
+	background-color: gray;
+	background-image: url(./images/Background.jpg);
+	background-size: 100%;
+	background-position: center top;
+	background-attachment: scroll;
+}
+
+/* half_year.html css code starts here*/
+
+.background-2 {
+	min-height: 250vh;
+	background-color: gray;
+	background-image: url(./images/blue-white.jpg);
+	background-size: 100%;
+	background-position: center top;
+	background-attachment: scroll;
+/*	background-repeat: no-repeat;*/
+}
+
+.text-color-1 {
+	color: blanchedalmond;
+}
+
+.color-title {
+	color: #DBA800;
+}
+
+.color-1 {
+	color: rgb(1, 50, 32);
+}
+
+.color-2 {
+	color: rgb(0, 0, 139);
+}
+
+.color-3 {
+	color: rgb(1, 50, 32);
+}
+
+.color-4 {
+	color: rgb(0, 0, 139);
+}
+
+.color-5 {
+	color: rgb(1, 50, 32);
+}
+
+.color-6 {
+	color: rgb(0, 0, 139);
+}
+
+.color-7 {
+	color: rgb(255, 0, 0);
+}
